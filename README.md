@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Renzo Bernabé! 👋 
 
-<!--
-**renzobernabe-dev/renzobernabe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Engineering Student** at **IFES Campus Vitória**, currently bridging the gap between engineering principles and software development. My focus is on leveraging **Python** to solve complex problems in **Cybersecurity** and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+### 🎓 Academic Background
+- **Institution:** Instituto Federal do Espírito Santo (IFES) - Campus Vitória
+- **Major:** Sanitary & Environmental Engineering
+- **Languages:** Portuguese (Native), English (B2/C1), Spanish, French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Project: Pentest AI Assistant
+I am currently developing an **AI-powered assistant** designed to streamline penetration testing workflows. 
+- **Tech Stack:** Python, AI Frameworks, Security Tooling.
+- **Goal:** To automate reconnaissance and vulnerability analysis using intelligent agents.
+
+### 🛠️ Technical Skills
+- **Programming:** Python (Intermediate), C/C++ (Learning/often used in Engineering), JS.
+- **Engineering:** AutoCAD, Revit.
+- **Security:** Network Security, Ethical Hacking basics.
+
+### 📫 Connect with me
+- 📍 Vitória, ES, Brazil
+- 💼 https://www.linkedin.com/in/renzo-bernab%C3%A9-aa13813a8/
+- 📧 renzo.bernabe.dev@gmail.com
+
+---
+*“Engineering the future with code and security.”*

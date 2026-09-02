@@ -1,7 +1,6 @@
 Hi, I'm Renzo Bernabé! 👋
 
-I'm an ADS student at PUC Minas, currently focused on becoming a
-Software Developer.
+I'm an **Análise e Desenvolvimento de Sistemas (ADS) student at PUC Minas**, currently focused on becoming a Software Developer.
 
 I'm learning Python, Git, GitHub and Web Development, while building
 projects to turn what I study into practical experience.

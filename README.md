@@ -1,26 +1,35 @@
-# Hi, I'm Renzo Bernabé! 👋 
+Hi, I'm Renzo Bernabé! 👋
 
-I am an **Engineering Student** at **IFES Campus Vitória**, currently bridging the gap between engineering principles and software development. My focus is on leveraging **Python** to solve complex problems in **Cybersecurity** and **Artificial Intelligence**.
+I'm an ADS student at PUC Minas, currently focused on becoming a
+Software Developer.
 
-### 🎓 Academic Background
-- **Institution:** Instituto Federal do Espírito Santo (IFES) - Campus Vitória
-- **Major:** Sanitary & Environmental Engineering
-- **Languages:** Portuguese (Native), English (B2/C1), Spanish, French
+I'm learning Python, Git, GitHub and Web Development, while building
+projects to turn what I study into practical experience.
 
-### 🚀 Key Project: Pentest AI Assistant
-I am currently developing an **AI-powered assistant** designed to streamline penetration testing workflows. 
-- **Tech Stack:** Python, AI Frameworks, Security Tooling.
-- **Goal:** To automate reconnaissance and vulnerability analysis using intelligent agents.
+## 🚀 Currently learning
 
-### 🛠️ Technical Skills
-- **Programming:** Python (Intermediate), C/C++ (Learning/often used in Engineering), JS.
-- **Engineering:** AutoCAD, Revit.
-- **Security:** Network Security, Ethical Hacking basics.
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- Software Development fundamentals
 
-### 📫 Connect with me
-- 📍 Vitória, ES, Brazil
-- 💼 https://www.linkedin.com/in/renzo-bernab%C3%A9-aa13813a8/
-- 📧 renzo.bernabe.dev@gmail.com
+## 🎯 Goals
 
----
-*“Engineering the future with code and security.”*
+- Build real-world projects
+- Contribute to open-source projects
+- Get my first opportunity in software development
+- Grow into a professional developer
+
+## 🛠️ Technologies
+
+Python • HTML • CSS • JavaScript • Git • GitHub
+
+## 🌎 Languages
+
+- Portuguese — Native
+- English — Fluent
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/renzo-bernab%C3%A9-aa13813a8/
